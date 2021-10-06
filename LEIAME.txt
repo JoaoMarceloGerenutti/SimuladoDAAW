@@ -1,0 +1,16 @@
+﻿Simulado.
+
+Executar o ScriptBanco.sql
+
+Definir o projeto WebUI como projeto inicialização.
+
+Finalizar a tela de cadastro de notícia
+
+1) Criar botão inserir (DAL Pronta); FEITO
+2) Criar botão buscar (Ao inserir um código, buscar e preencher os TextBox com as propriedades da Notícia) (Não existe na DAL); FEITO
+3) Criar botão atualizar (Não existe na DAL); FEITO
+4) Criar botão excluir (Não existe na DAL); FEITO
+5) Criar função e executá-la ao abrir a página para carregar a GridView com a listagem de notícias (DAL Pronta); FEITO
+6) Criar botão com uma função que limpe a tela; FEITO
+
+Bom divertimento
